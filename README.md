@@ -6,8 +6,8 @@ macbook touchbar composed of a lot of my own and other people's code
 From left to right:</br>
  -CPU load and fan speed, pressing on the CPU button opens up the activity monitor</br>
  -Spotify shows the current song, can be replaced by itunes</br>
- -Weather works, you can change it to a preferred service/API
-  - update : now works with location !</br>
+ -Weather works, you can change it to a preferred service/API</br>
+  - update : now works with location !
  -media tools, work for both spotify and itunes, mute works for everything</br>
  -battery %, shows a lightning bolt if charging</br>
  -time, changes depending on selected system time</br>
