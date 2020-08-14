@@ -8,6 +8,7 @@ From left to right:</br>
  -Spotify shows the current song, can be replaced by itunes</br>
  -Weather works, you can change it to a preferred service/API</br>
   - update : now works with location !
+
  -media tools, work for both spotify and itunes, mute works for everything</br>
  -battery %, shows a lightning bolt if charging</br>
  -time, changes depending on selected system time</br>
